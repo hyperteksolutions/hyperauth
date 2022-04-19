@@ -1,32 +1,34 @@
 {
   "name": "hyperauth",
-  "version": "1.0.0",
-  "description": "Helper Library for HyperAuth, a 2FA service",
+  "version": "1.0.4",
+  "description": "Helper Library for HyperAuth, a MFA service",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm run test:javascript",
     "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hypertek-Solutions/hyperauth.git"
+    "url": "git://github.com/hyperteksolutions/hyperauth.git"
   },
   "keywords": [
-    "2fa",
+    "mfa",
     "hypertek",
     "solutions",
-    "mfa",
+    "Hypertek Solutions",
+    "2fa",
     "nodejs",
-    "mfa"
+    "mfa",
+    "2 factor authentication",
+    "multi factor authentication"
   ],
   "author": "Hypertek <contact@hypertek.dev> (https://hypertek.dev)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Hypertek-Solutions/hyperauth/issues"
+    "url": "https://github.com/hyperteksolutions/hyperauth/issues"
   },
-  "homepage": "https://github.com/Hypertek-Solutions/hyperauth#readme",
+  "homepage": "https://github.com/hyperteksolutions/hyperauth",
   "engines": {
-    "node": "^8.1 || >=10.*"
+    "node": ">=16.*"
   },
   "dependencies": {
     "axios": "^0.26.0"
