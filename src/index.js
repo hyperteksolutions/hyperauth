@@ -20,7 +20,7 @@ class HyperAuth {
   };
   createTenant = async (phoneNumber, email) => {
     try {
-      let x = await this.instance.get("/api/createTenant", {
+      let x = await this.instance.post("/api/createTenant", {
         phoneNumber,
         email,
       });
