@@ -4,19 +4,19 @@
 HyperAuth Node.JS Server Library
 </h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-![](https://img.shields.io/github/stars/hyperteksolutions/hyperauth.svg) ![](https://img.shields.io/github/forks/hyperteksolutions/hyperauth.svg) ![](https://img.shields.io/github/tag/hyperteksolutions/hyperauth.svg) ![](https://img.shields.io/github/release/hyperteksolutions/hyperauth.svg) ![](https://img.shields.io/github/issues/hyperteksolutions/hyperauth.svg)
-</div>
+![](https://img.shields.io/github/stars/hyperteksolutions/hyperauth.svg)
+![](https://img.shields.io/github/forks/hyperteksolutions/hyperauth.svg)
+![](https://img.shields.io/github/tag/hyperteksolutions/hyperauth.svg)
+![](https://img.shields.io/github/release/hyperteksolutions/hyperauth.svg)
+![](https://img.shields.io/github/issues/hyperteksolutions/hyperauth.svg)
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
 [![Npm package version](https://badgen.net/npm/v/hyperauth)](https://npmjs.com/package/hyperauth)
 [![NPM Package Downloads](https://badgen.net/npm/dt/hyperauth)](https://npmjs.com/package/hyperauth)
 [![Try on RunKit](https://badge.runkitcdn.com/hyperauth.svg)](https://runkit.com/npm/hyperauth)
 [![License](https://img.shields.io/github/license/hyperteksolutions/hyperauth)](https://github.com/Hypertek-Solutions/hyperauth/blob/master/LICENSE)
 [![Dashboard](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://hyperauth.app/)
-</div>
 
 ---
 
